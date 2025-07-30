@@ -3,8 +3,6 @@
 A collection of **JavaScript design patterns** with **simple use-cases** to understand and apply common patterns.  
 This repo is a **learning reference** for design patterns in JS.
 
----
-
 ## 📖 Overview
 
 Design patterns are **reusable solutions** to common software design problems.  
