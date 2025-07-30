@@ -1,8 +1,7 @@
 **JavaScript Design Patterns**
 ========================================
 
-A comprehensive collection of JavaScript design patterns and SOLID principle connections.
-This repository serves as a learning reference to Frontend Engineers.
+A comprehensive collection of JavaScript design patterns. This repository serves as a learning reference to Frontend Engineers.
 
 **📖 Overview**
 ---------------
@@ -19,12 +18,9 @@ Design patterns are proven solutions to common software problems. They allow you
 
 This repo includes:
 
--   Classic JavaScript Patterns
+-   Types of JavaScript Patterns
 
 -   Memory Tricks for Recognition
-
--   SOLID Connections
-
 
 **🏷️ Categories of Design Patterns**
 -------------------------------------
